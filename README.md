@@ -2,7 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+Go visit [https://enn.design/f2e/5](https://enn.design/f2e/5) and download the project.
+
+run the development server:
 
 ```bash
 npm run dev
